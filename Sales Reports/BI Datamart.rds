@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="BI Datamart">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=PANUSABIDB\STRATEGYBI;Initial Catalog=Datamarts</ConnectString>
+    <IntegratedSecurity>true</IntegratedSecurity>
+    <Prompt>Specify a user name and password for data source BI Datamart</Prompt>
+  </ConnectionProperties>
+  <DataSourceID>ededef4c-e7bf-4e7e-8b01-e94118581f6c</DataSourceID>
+</RptDataSource>
